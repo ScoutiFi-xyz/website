@@ -48,7 +48,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="flex items-center justify-center text-indigo-500 transition hover:text-indigo-400"
-                    href="https://github.com/Scoutifixyz"
+                    href="https://github.com/ScoutiFi-xyz"
                     aria-label="Github"
                   >
                     <svg
