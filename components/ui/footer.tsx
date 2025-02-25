@@ -33,7 +33,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="flex items-center justify-center text-indigo-500 transition hover:text-indigo-400"
-                    href="https://x.com/Scoutifyxyz"
+                    href="https://x.com/Scoutifi"
                     aria-label="Twitter"
                   >
                     <svg
